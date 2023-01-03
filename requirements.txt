@@ -1,7 +1,7 @@
 alabaster==0.7.12
 alembic==1.7.7
 ansible==4.10.0
-ansible-compat==2.2.5
+ansible-compat==1.0.0
 ansible-core==2.14.1
 ansible-lint==6.8.7
 appdirs==1.4.4
