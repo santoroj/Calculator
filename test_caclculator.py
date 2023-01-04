@@ -8,7 +8,7 @@ import calculator
 class TestCalculator:
 
     def test_addition(self):
-        assert 8 == calculator.add(4, 4)
+        assert 10 == calculator.add(4, 6)
 
     def test_subtraction(self):
         assert 2 == calculator.subtract(4, 2)
