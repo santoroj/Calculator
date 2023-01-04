@@ -22,3 +22,7 @@ class TestCalculator:
     def test_division(self):
         """ division test """
         assert 10 == calculator.division(100, 10)
+
+    def test_failed_division(self):
+        """ failed division test """
+        assert 10 != calculator.division(100, 20)
